@@ -6,18 +6,10 @@ Create environments, deploy, and manage cloud-native apps without worrying about
 
 ## Example Usage
 
-Running `playground-cli` inside the built container.
-
 ```json
 "features": {
-    "ghcr.io/oleksis/playground-cli/playground-cli:4": {}
+    "ghcr.io/oleksis/devcontainer-features/playground-cli:4": {}
 }
-```
-
-```bash
-$ playground --version
-
-v4.3.0 [d28c04acdaca4966f52e5a483e500f28b86a1ae3]
 ```
 
 ## Options
@@ -30,4 +22,4 @@ v4.3.0 [d28c04acdaca4966f52e5a483e500f28b86a1ae3]
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/oleksis/playground-cli/blob/main/src/playground-cli/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/oleksis/devcontainer-features/blob/main/src/playground-cli/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
