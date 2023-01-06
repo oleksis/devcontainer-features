@@ -10,7 +10,7 @@ Running `playground-cli` inside the built container.
 
 ```json
 "features": {
-    "ghcr.io/oleksis/playground-cli/playground-cli:4": {}
+    "ghcr.io/oleksis/devcontainer-features/playground-cli:4": {}
 }
 ```
 

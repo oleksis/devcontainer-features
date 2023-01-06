@@ -12,7 +12,7 @@ Running `python-launcher` inside the built container.
 {
     "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
     "features": {
-        "ghcr.io/oleksis/python-launcher/python-launcher:1": {}
+        "ghcr.io/oleksis/devcontainer-features/python-launcher:1": {}
     }
 }
 ```
