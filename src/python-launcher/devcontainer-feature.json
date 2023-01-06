@@ -1,0 +1,21 @@
+{
+    "name": "Python Launcher",
+    "id": "python-launcher",
+    "documentationURL": "https://python-launcher.app/",
+    "version": "1.0.0",
+    "description": "Python Launcher for Unix",
+    "options": {
+        "version": {
+            "type": "string",
+            "proposals": [
+                "latest",
+                "1.0.0"
+            ],
+            "default": "1.0.0",
+            "description": "Select or enter a Python Launcher version"
+        }
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}

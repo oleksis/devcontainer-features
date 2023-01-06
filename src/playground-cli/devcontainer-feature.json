@@ -1,0 +1,21 @@
+{
+    "name": "NAPPTIVE Playground CLI",
+    "id": "playground-cli",
+    "version": "4.3.0",
+    "documentationURL": "https://github.com/oleksis/devcontainer-features/tree/main/src/playground-cli",
+    "description": "Create environments, deploy, and manage cloud-native apps without worrying about Kubernetes",
+    "options": {
+        "version": {
+            "type": "string",
+            "proposals": [
+                "latest",
+                "4.3.0"
+            ],
+            "default": "4.3.0",
+            "description": "Select or enter a NAPPTIVE Playground CLI version"
+        }
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
