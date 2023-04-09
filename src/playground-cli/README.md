@@ -1,5 +1,4 @@
 
-
 # NAPPTIVE Playground CLI (playground-cli)
 
 Create environments, deploy, and manage cloud-native apps without worrying about Kubernetes
@@ -16,7 +15,7 @@ Create environments, deploy, and manage cloud-native apps without worrying about
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| version | Select or enter a NAPPTIVE Playground CLI version | string | 5.0.2 |
+| version | Select or enter a NAPPTIVE Playground CLI version | string | latest |
 
 
 
