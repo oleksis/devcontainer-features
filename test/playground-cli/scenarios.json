@@ -1,0 +1,34 @@
+{
+    "install_playground_from_src_jammy": {
+        "image": "ubuntu:jammy",
+        "features": {
+            "playground-cli": {
+                "version": "latest"
+            }
+        }
+    },
+    "install_playground_from_src_jammy_v3": {
+        "image": "ubuntu:jammy",
+        "features": {
+            "playground-cli": {
+                "version": "3.1.0"
+            }
+        }
+    },
+    "install_playground_from_src_jammy_v4": {
+        "image": "ubuntu:jammy",
+        "features": {
+            "playground-cli": {
+                "version": "4.4.0"
+            }
+        }
+    },
+    "install_playground_from_src_jammy_v5": {
+        "image": "ubuntu:jammy",
+        "features": {
+            "playground-cli": {
+                "version": "5.0.2"
+            }
+        }
+    }
+}
