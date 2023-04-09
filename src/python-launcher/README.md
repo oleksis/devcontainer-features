@@ -1,5 +1,4 @@
 
-
 # Python Launcher (python-launcher)
 
 Python Launcher for Unix
