@@ -8,7 +8,7 @@ Create environments, deploy, and manage cloud-native apps without worrying about
 
 ```json
 "features": {
-    "ghcr.io/oleksis/devcontainer-features/playground-cli:4": {}
+    "ghcr.io/oleksis/devcontainer-features/playground-cli:5": {}
 }
 ```
 
@@ -16,7 +16,7 @@ Create environments, deploy, and manage cloud-native apps without worrying about
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| version | Select or enter a NAPPTIVE Playground CLI version | string | 4.3.0 |
+| version | Select or enter a NAPPTIVE Playground CLI version | string | 5.0.2 |
 
 
 
